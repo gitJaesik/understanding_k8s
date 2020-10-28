@@ -1,5 +1,7 @@
 # understanding_k8s
 
-## Todo
+## Useful
 
-- install
+- install minikube
+- install vscode kubernetes plugin
+
