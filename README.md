@@ -11,3 +11,7 @@
 
 - helm
   - https://helm.sh/
+
+## ref
+
+- https://github.com/wardviaene/kubernetes-course
