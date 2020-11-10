@@ -9,5 +9,5 @@
 
 ## net
 
- - helm
-   - https://helm.sh/
+- helm
+  - https://helm.sh/
