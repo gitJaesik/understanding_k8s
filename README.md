@@ -7,10 +7,10 @@
 - to check tcp, see ingress-nginx
 - look over k8s public doc
 
-## net
-
 - helm
   - https://helm.sh/
+    - helm install ko
+      - https://helm.sh/ko/docs/intro/using_helm/
 
 ## ref
 
