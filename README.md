@@ -12,6 +12,9 @@
     - helm install ko
       - https://helm.sh/ko/docs/intro/using_helm/
 
+- drone
+  - https://docs.drone.io/runner/kubernetes/overview/
+
 ## ref
 
 - https://github.com/wardviaene/kubernetes-course
