@@ -6,6 +6,7 @@
 - install vscode kubernetes plugin
 - to check tcp, see ingress-nginx
 - look over k8s public doc
+- k8s busybox example check
 
 - helm
   - https://helm.sh/
