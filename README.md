@@ -18,6 +18,11 @@
 - drone
   - https://docs.drone.io/runner/kubernetes/overview/
 
+
+## todo
+
+k8s cicd
+
 ## ref
 
 - https://github.com/wardviaene/kubernetes-course
