@@ -18,6 +18,7 @@
 - drone
   - https://docs.drone.io/runner/kubernetes/overview/
 
+- k8s event check
 
 ## todo
 
