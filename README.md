@@ -19,6 +19,8 @@
   - https://docs.drone.io/runner/kubernetes/overview/
 
 - k8s event check
+- k8s network
+  - ipvs
 
 ## todo
 
